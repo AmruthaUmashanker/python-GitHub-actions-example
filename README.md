@@ -25,7 +25,7 @@ azure-pipelines.yml CI pipeline configuration
 
 
 
-* Azure DevOps Pipeline Flow *
+*Azure DevOps Pipeline Flow*
 
 - Triggered on commits to the `main` branch
 - Uses Microsoft-hosted `ubuntu-latest` agent
@@ -35,7 +35,7 @@ azure-pipelines.yml CI pipeline configuration
 
 
 
-* Tools & Technologies Used *
+*Tools & Technologies Used*
 
 - Python 3.14.2
 - Pytest
@@ -45,7 +45,7 @@ azure-pipelines.yml CI pipeline configuration
 
 
 
-* Outcome *
+*Outcome*
 
 - CI pipeline successfully created
 - Automated build and test execution
