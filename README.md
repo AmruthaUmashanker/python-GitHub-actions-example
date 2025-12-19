@@ -16,9 +16,10 @@ This project demonstrates a basic Continuous Integration (CI) setup for a Python
 
 
  *Project Structure*
-src/ Application source code
-tests/ Unit test cases
-requirements.txt Python dependencies
+ 
+src/ Application source code,
+tests/ Unit test cases,
+requirements.txt Python dependencies,
 azure-pipelines.yml CI pipeline configuration
 
 
@@ -32,7 +33,7 @@ azure-pipelines.yml CI pipeline configuration
 - Installs dependencies from `requirements.txt`
 - Runs tests using `pytest`
 
----
+
 
 * Tools & Technologies Used *
 
